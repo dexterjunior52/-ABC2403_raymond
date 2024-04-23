@@ -1,3 +1,5 @@
+# Exercice 1.3
+
 VARIABLES
 
 nombre1 est un nombre entier
