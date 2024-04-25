@@ -16,11 +16,11 @@ public class App {
 		
 		System.out.println ( "Bonjour,veuillez saisir votre prenom "); // Affichage
 		
-		prenom = sc.nextline (); // Demande à l'utilisateur une saisie .
+		prenom = sc.nextLine (); // Demande à l'utilisateur une saisie .
 		
 		// lorsque l'utilisateur validera avec la touche "Entrée " ,la saisie est récupérée dans la variable a gauche du signe "="
 		
-		System.out println ;(" Bonjour "+ prenom ) ; //Affichage 
+		System.out println ;(" Bonjour "+ prénom );//Affichage 
 		
 		sc.close ();//fERMETURE DU SCANNER 5obligatoirement )
 		
