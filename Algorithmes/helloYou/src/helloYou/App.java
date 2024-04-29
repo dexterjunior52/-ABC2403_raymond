@@ -2,7 +2,6 @@ package helloYou;
 
 import java.util.Scanner;
 
-
 public class App {
 
 	public static void main(String[] args) {
@@ -20,7 +19,7 @@ public class App {
 		
 		// lorsque l'utilisateur validera avec la touche "Entrée " ,la saisie est récupérée dans la variable a gauche du signe "="
 		
-		System.out println ;(" Bonjour "+ prénom );//Affichage 
+		System.out.println ;(" Bonjour "+ prénom ");//Affichage 
 		
 		sc.close ();//fERMETURE DU SCANNER 5obligatoirement )
 		
