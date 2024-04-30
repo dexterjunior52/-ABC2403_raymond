@@ -1,4 +1,4 @@
-//Exercice 2.1 : Positif ou négatif ?
+//Exercice 2.1 : Positif ou négatif 
 
 //Écrire un algorithme qui demande à l’utilisateur de saisir 1 nombre entier et l’informe ensuite si le nombre est positif ou négatif.
 
@@ -10,14 +10,14 @@
 
    TRAITEMENT
 
-     ECRIRE "sAISISSEZ UN NOMBRE ENTIER ;
+     ECRIRE "SAISISSEZ UN NOMBRE ENTIER ";
 
      LIRE nombreEntier;
 
    SI nombreEntier  >= 0 alors
     		 
-     ECRIRE "ce nom est positif "
+     ECRIRE "ce nombre est positif ";
   
    SINON ALORS
      
-     ECRIRE "ce nombre est négatif "
+      ECRIRE "ce nombre est négatif ";
