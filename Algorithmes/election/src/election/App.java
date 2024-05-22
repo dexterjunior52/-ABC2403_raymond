@@ -6,12 +6,12 @@ public class App {
 
 	public static void main(String[] args) {
 		
-		// Déclaration des variables
+// Déclaration des variables
         double scoreCandidat1, scoreCandidat2, scoreCandidat3, scoreCandidat4;
         double seuilMajorite, seuilDeuxiemeTour;
         boolean estElu, estBallottageFavorable, estBallottageDefavorable, estBattu;
 
-        // Créer un objet Scanner pour lire les entrées
+ // Créer un objet Scanner pour lire les entrées
         Scanner sc = new Scanner(System.in);
 
         // Demander à l'utilisateur les scores des candidats
